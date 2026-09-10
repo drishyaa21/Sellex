@@ -1,0 +1,9 @@
+# Visual Studio
+.vs/
+bin/
+obj
+
+
+# Local user data
+App_Data/user.json
+/Sellex/App_Data/users.json
